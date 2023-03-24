@@ -8,6 +8,11 @@ A Neovim colorscheme ported from <a href="https://github.com/vim/colorschemes/bl
 
 ## Screenshots
 
+|                                                                           |                                                                           |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| <img src="screenshots/screen1.png" alt="dark" style="border-radius:10%"/> | <img src="screenshots/screen2.png" alt="dark" style="border-radius:10%"/> |
+| <img src="screenshots/screen3.png" alt="dark" style="border-radius:10%"/> | <img src="screenshots/screen4.png" alt="dark" style="border-radius:10%"/> |
+
 ## Installation
 
 - Using `vim-plug`:
