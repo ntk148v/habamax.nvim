@@ -1,5 +1,29 @@
-A Lush Theme for Neovim.
-===
+<div align="center">
 
-See: http://git.io/lush.nvim for more information on Lush and a helper script
-to setup your repo clone.
+# Habamax.nvim
+
+A Neovim colorscheme ported from <a href="https://github.com/vim/colorschemes/blob/master/colors/habamax.vim">Vim Habamax</a> colorscheme.
+
+</div>
+
+## Screenshots
+
+## Installation
+
+- Using `vim-plug`:
+
+```vim
+Plug 'ntk148v/habamax.nvim'
+```
+
+- Using `packer`:
+
+```lua
+use { "ntk148v/habamax.nvim" }
+```
+
+- Using `lazy.nvim`:
+
+```lua
+{ "ntk148v/habamax.nvim" }
+```
