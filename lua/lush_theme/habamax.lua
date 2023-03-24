@@ -48,6 +48,7 @@ local hsluv = lush.hsluv
 local theme = lush(function(injected_functions)
   local sym = injected_functions.sym
   return {
+    SignColumn                             { bg="None", fg="None" }, -- SignColumn
     SpecialKey                             { fg="#585858", }, -- SpecialKey     xxx ctermfg=240 guifg=#585858
     EndOfBuffer                            { fg="#585858", }, -- EndOfBuffer    xxx ctermfg=240 guifg=#585858
     NvimTreeEndOfBuffer                    { EndOfBuffer }, -- NvimTreeEndOfBuffer xxx links to EndOfBuffer
